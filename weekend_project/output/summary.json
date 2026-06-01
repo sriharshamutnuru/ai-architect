@@ -1,0 +1,10 @@
+{
+  "report_title": "Q3-2024 BFSI Compliance Summary",
+  "banks_reviewed": 5,
+  "flagged_count": 2,
+  "flagged_banks": [
+    "Yes Bank",
+    "IDFC First"
+  ],
+  "total_branches": 36600
+}

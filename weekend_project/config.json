@@ -1,0 +1,11 @@
+{
+  "report_title": "Q3-2024 BFSI Compliance Summary",
+  "npa_threshold": 3.0,
+  "banks": [
+    {"name": "HDFC Bank",  "npa": 1.2, "branches": 6800},
+    {"name": "ICICI Bank", "npa": 2.4, "branches": 5900},
+    {"name": "Yes Bank",   "npa": 5.1, "branches": 1100},
+    {"name": "SBI",        "npa": 2.8, "branches": 22000},
+    {"name": "IDFC First", "npa": 3.7, "branches": 800}
+  ]
+}
