@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+
+# Output files
+output/
+*.json
+!config.json
